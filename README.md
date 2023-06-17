@@ -1,9 +1,14 @@
 ### Wanna Get Someone's Personal Informations?
 
 
+## 🔗 Links
+[![buymeacoffe](https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/simpfey)
 
 
+## 🛠 Skills
+HTML, CSS, PHP, JS, C++, Python
 
- 📫 You can reach me at: Simpfey#0545 | 🐍 [Python](https://python.org) is my favourite language
+
+ | 🐍 [Python](https://python.org) is my favourite language
 --- | ---
 ![](https://github-readme-stats.vercel.app/api?username=Simpfey&show_icons=true&theme=tokyonight) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpfey&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)
