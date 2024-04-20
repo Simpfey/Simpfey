@@ -1,4 +1,4 @@
-### Wanna Get Someone's Personal Informations?
+### America Ya
 
 
 ## 🔗 Links
