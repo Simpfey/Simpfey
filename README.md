@@ -1,12 +1,11 @@
-### America Ya
-
-
-## 🔗 Links
-[![buymeacoffe](https://img.shields.io/badge/buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/simpfey)
-
+# Simpfey
+A Free Lancing Developer, User Interface Designer, User Experience Designer <br/>
+Born in Poland on 27th August 2010 <br />
+Currently Unemployed as of October 14th 2024 
 
 ## 🛠 Skills
-HTML, CSS, PHP, JS, C++, Python
+User Interface, User Experience, Html, Css, JavaScript, Python, Php
 
-
-![](https://github-readme-stats.vercel.app/api?username=Simpfey&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simpfey&show_icons=true&theme=tokyonight&layout=compact&langs_count=8)
+## 🔗 Links
+[![buymeacoffe](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00)](https://www.buymeacoffee.com/simpfey) <br />
+[![My Personal Portfolio](https://img.shields.io/badge/My%20Personal%20Portfolio-8A2BE2)](https://simpfey.github.io/)
